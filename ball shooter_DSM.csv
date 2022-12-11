@@ -1,0 +1,20 @@
+ ,ball,ball advance cap,barrel,barrel cartridge,barrel end cap,barrel end cap plug,barrel front cap,external,gun housing 1,gun housing 2,gun housing 3,gun housing 4,internal,rubber barrel seal,rubber seal,screws,spacer,spacer stud,spring
+ball,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+ball advance cap,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+barrel,1,0,1,0,1,0,1,1,1,1,1,1,1,0,0,0,1,0,1
+barrel cartridge,0,0,0,1,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0
+barrel end cap,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+barrel end cap plug,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+barrel front cap,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+external,0,0,1,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0
+gun housing 1,0,0,1,1,0,0,0,1,1,1,0,0,1,0,0,1,0,1,0
+gun housing 2,0,0,1,1,0,0,0,1,1,1,0,0,1,0,0,1,0,1,0
+gun housing 3,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0
+gun housing 4,0,0,1,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0
+internal,0,1,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1
+rubber barrel seal,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0
+rubber seal,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+screws,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,0,0,0
+spacer,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+spacer stud,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,1,0
+spring,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
